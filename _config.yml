@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Test install Chirpy  # the main title
+title: J.Yoon's Blog  # the main title
 
-tagline: Test message # it will display as the sub-title
+tagline: Research # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://J-Y00N.github.io"
 
 github:
-  username: whdah2326 # change to your github username
+  username: J-Y00N # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
